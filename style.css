@@ -1,0 +1,86 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.first-section-full-div {
+    text-align: center;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-width: 100%;
+    padding: 10%;
+    color: white;
+}
+
+h1 {
+    font-size: 5em;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.first-section-p-tag {
+    font-size: 1.4em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.all-button {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    font-size: 1.5em;
+    background-color: #ff5959;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.section2-div1 {
+    text-align: center;
+}
+
+.section2-div2 {
+    display: flex;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.taka {
+    background-color: #fafafa;
+    color: #707070;
+    margin-left: 2%;
+    padding: 5%;
+}
+
+.section3-div3 {
+    text-align: center;
+}
+
+#amount-button {
+    size: 50px;
+    margin-bottom: 2%;
+
+}
+
+.section3-div2 {
+    display: flex;
+    margin-right: 14%;
+    margin-left: 16%;
+
+}
+
+.donate-plane-box {
+    padding: 3%;
+    border-radius: 15px;
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 300px;
+    height: 300px;
+    border: 2px solid;
+}
+
+.img {
+    width: 20%;
+    height: auto;
+}
